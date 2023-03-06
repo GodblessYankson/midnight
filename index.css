@@ -1,0 +1,23 @@
+body{
+
+background-color: black;
+
+    
+}
+
+#heading{
+
+    font-size: 100px;
+    text-align: center;
+    color: burlywood;
+    background-color: yellow;
+    
+}
+
+.classone{
+       text-transform: uppercase;
+        color: white;
+        font-size: 40px;
+
+
+}
